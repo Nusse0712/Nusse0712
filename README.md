@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cole Nussear</h1>
+[![MasterHead](https://github.com/Nusse0712/Nusse0712/blob/main/header.png?raw=true)](https://github.com/Nusse0712)
+
 <h3 align="center">A undergraduate Student from Hagerstown Maryland</h3>
 
 - 🔭 I’m currently working on **recieving my degree in Computer Science and Music Production at Salisbury University**
