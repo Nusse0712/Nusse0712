@@ -24,10 +24,10 @@
 <h3 align="left">My Github Stats:</h3>
 
 <a href="https://github.com/Nusse0712/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nusse0712&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nusse0712&show_icons=true" />
 </a>
 <a href="https://github.com/Nusse0712/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusse0712&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusse0712" />
 </a>
 
 
