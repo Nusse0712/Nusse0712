@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **c.nussear@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tfYezTKgvLtub0ODrwk4EoovYpXdRzIm9-nALdoZkds/edit?usp=sharing](https://docs.google.com/document/d/1tfYezTKgvLtub0ODrwk4EoovYpXdRzIm9-nALdoZkds/edit?usp=sharing)
+- 📄 Know about my experiences [With My Formal Resume](https://docs.google.com/document/d/1tfYezTKgvLtub0ODrwk4EoovYpXdRzIm9-nALdoZkds/edit?usp=sharing)
 
 - ⚡ Fun fact **I play a wide variety of instruments! my favorite two instruments to play are the guitar and drums**
 
