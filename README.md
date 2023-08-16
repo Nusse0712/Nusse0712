@@ -1,10 +1,8 @@
 [![MasterHead](https://github.com/Nusse0712/Nusse0712/blob/main/header.png?raw=true)](https://github.com/Nusse0712)
 
-<h3 align="center">An undergraduate Student from Hagerstown Maryland</h3>
+<h3 align="center">Recent Graduate from Salisbury University</h3>
 
-- 🔭 I’m currently working on **recieving my degree in Computer Science and Music Production at Salisbury University**
-
-- 🌱 I’m currently learning **Kali Linux and encryption implementation**
+- 🔭 I’m currently working on **recieving my Security+ certification from CompTIA**
 
 - 📫 How to reach me **c.nussear@gmail.com**
 
